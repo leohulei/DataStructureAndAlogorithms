@@ -1,4 +1,4 @@
-package src.main.java.剑指offer;
+package src.main.java.leecode;
 //编写一个函数来查找字符串数组中的最长公共前缀。
 //
 // 如果不存在公共前缀，返回空字符串 ""。
@@ -28,7 +28,7 @@ package src.main.java.剑指offer;
 // 0 <= strs[i].length <= 200
 // strs[i] 仅由小写英文字母组成
 //
-public class offer14 {
+public class leecode_0014_LongestCommonPrefix {
     public static void main(String[] args) {
         String[] strs = {"flower","flow","flight"};
         System.out.println(longestCommonPrefix(strs));

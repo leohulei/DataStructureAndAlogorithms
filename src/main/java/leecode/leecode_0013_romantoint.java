@@ -1,4 +1,4 @@
-package src.main.java.剑指offer;
+package src.main.java.leecode;
 //罗马数字包含以下七种字符: I， V， X， L，C，D 和 M。
 //
 //
@@ -73,7 +73,7 @@ package src.main.java.剑指offer;
 // 关于罗马数字的详尽书写规则，可以参考 罗马数字 - 百度百科。
 //
 //
-public class offer13 {
+public class leecode_0013_romantoint {
     public static void main(String[] args) {
         System.out.println(romanToInt("III"));
         System.out.println(romanToInt("IV"));
